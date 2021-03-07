@@ -8,4 +8,10 @@ PyBer; a ride-sharing app company, wants all of the rideshare data from January 
 To do this analysis, I created a summary DataFrame of the ride-sharing data by city type and created a multiple-line graph that shows the total weekly fares foreach city type.
 
 ## Analysis Results
+**Summary of ride-sharing data by city type**
+(image)
+**Graph representing total weekly fares for each city type**
+(image)
+
 ## Analysis Summary
+Since there is a disparity between population size and city size among the city types, this leads to.... 
