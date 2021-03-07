@@ -1,6 +1,6 @@
 # PyBer_Analysis
 **Programming software used: Anaconda, Jupyter Notebook; Language: Python -- Matplotlib & Pandas**
-**Code for analysis: [PyBer_Analysis](**
+**Code for analysis: [PyBer_Analysis](https://github.com/Ariannatopbjerg/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)**
 
 ## Purpose of Analysis
 PyBer; a ride-sharing app company, wants all of the rideshare data from January to early May of 2019 to be analyzed and to have a visualization of the results. The analysis will showcase the relationship between the type of city and the number of drivers and riders, as well as the percentage of the total fares, riders, and drivers by type of city. This will help PyBer improve access to ride sharing services and determine the affordability for underserved neighborhoods.
