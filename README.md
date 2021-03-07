@@ -1,6 +1,6 @@
 # PyBer_Analysis
 **Programming software used: Anaconda, Jupyter Notebook; Language: Python -- Matplotlib & Pandas**
-**Code for analysis:**
+**Code for analysis: [PyBer_Analysis](**
 
 ## Purpose of Analysis
 PyBer; a ride-sharing app company, wants all of the rideshare data from January to early May of 2019 to be analyzed and to have a visualization of the results. The analysis will showcase the relationship between the type of city and the number of drivers and riders, as well as the percentage of the total fares, riders, and drivers by type of city. This will help PyBer improve access to ride sharing services and determine the affordability for underserved neighborhoods.
@@ -8,8 +8,10 @@ PyBer; a ride-sharing app company, wants all of the rideshare data from January 
 To do this analysis, I created a summary DataFrame of the ride-sharing data by city type and created a multiple-line graph that shows the total weekly fares foreach city type.
 
 ## Analysis Results
+
 **Summary of ride-sharing data by city type**
-(image) ![](https://github.com/Ariannatopbjerg/School_District_Analysis/blob/main/images/district_sum_old.PNG)
+![](https://github.com/Ariannatopbjerg/PyBer_Analysis/blob/main/analysis/pyber_summary_df.PNG)
+
 **Graph representing total weekly fares for each city type**
 (image)
 
