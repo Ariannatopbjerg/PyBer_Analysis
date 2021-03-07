@@ -9,7 +9,7 @@ To do this analysis, I created a summary DataFrame of the ride-sharing data by c
 
 ## Analysis Results
 **Summary of ride-sharing data by city type**
-(image)
+(image) ![](https://github.com/Ariannatopbjerg/School_District_Analysis/blob/main/images/district_sum_old.PNG)
 **Graph representing total weekly fares for each city type**
 (image)
 
