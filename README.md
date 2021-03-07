@@ -14,4 +14,5 @@ To do this analysis, I created a summary DataFrame of the ride-sharing data by c
 (image)
 
 ## Analysis Summary
-Since there is a disparity between population size and city size among the city types, this leads to.... 
+Since there is a difference between population size and city size among the city types, this leads to disparities among the city types that need to be addressed to improve the access to ride sharing services and determine the affordability for underserved neighborhoods. Since Rural areas are more geographically spaced out compared to suburban and urban areas, it is understandable that ride fares will be higher in rate; as shown in the data. Longer distances tend to cost more. To better understand ride sharing services in relation to affordability, I propose that we analyze the duration of individual rides and their distances. Once that data is analyzed, we can then determin proper cost in terms of drivers' time per rider, and cost to fill up for gas.  
+
