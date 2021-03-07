@@ -22,7 +22,7 @@ Looking at the data, there is over 10 times more ride activity in urban cities t
 - If distance is the reason -> change our price methods by making time as the price factor. 
 - If there is no correlation among those two variables with fare price -> look at the amount of drivers per area. 
 - If drivers are the factor to fare price -> increase drivers in underserved areas to increase rides to then create lower prices. 
-  - *Drivers that are not getting enough rides leads to a decrease in their pay, which can then lead to a increase in fare price.*  
+  - Drivers that are not getting enough rides leads to a decrease in their pay, which can then lead to a increase in fare price.  
 
 
 
