@@ -1,5 +1,6 @@
 # PyBer_Analysis
 **Programming software used: Anaconda, Jupyter Notebook; Language: Python -- Matplotlib & Pandas**
+
 **Code for analysis: [PyBer_Analysis](https://github.com/Ariannatopbjerg/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)**
 
 ## Purpose of Analysis
@@ -9,10 +10,12 @@ To do this analysis, I created a summary DataFrame of the ride-sharing data by c
 
 ## Analysis Results
 
-**Summary of ride-sharing data by city type**
+***Summary of ride-sharing data by city type***
+
 ![](https://github.com/Ariannatopbjerg/PyBer_Analysis/blob/main/analysis/pyber_summary_df.PNG)
 
-**Graph representing total weekly fares for each city type**
+***Graph representing total weekly fares for each city type***
+
 (image)
 
 ## Analysis Summary
