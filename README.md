@@ -14,5 +14,20 @@ To do this analysis, I created a summary DataFrame of the ride-sharing data by c
 (image)
 
 ## Analysis Summary
-Since there is a difference between population size and city size among the city types, this leads to disparities among the city types that need to be addressed to improve the access to ride sharing services and determine the affordability for underserved neighborhoods. Since Rural areas are more geographically spaced out compared to suburban and urban areas, it is understandable that ride fares will be higher in rate; as shown in the data. Longer distances tend to cost more. To better understand ride sharing services in relation to affordability, I propose that we analyze the duration of individual rides and their distances. Once that data is analyzed, we can then determin proper cost in terms of drivers' time per rider, and cost to fill up for gas.  
+Looking at the data, there is over 10 times more ride activity in urban cities than rural cities. This makes sense due to urban cities naturally having a higher population density than rural areas. It is also observed that fare rides are cheaper in urban cities than rural cities. Suburban cities are in the between when it comes to ride/driver count and fare price. Since there tends to be a significant difference between geographical radius and population size among the type of cities, we need to take these variables into consideration when deciding ways to reduce fare price to be more affordable for underserved neighborhoods.  
+
+**Proposed steps to determin affordability for ride services:**
+- Analyze the duration of individual rides and their distances. 
+  - This will show if time of ride or distance of ride is determining prices for fares. 
+- If distance is the reason, we can change our price methods by making time as the price factor. 
+- If there is no correlation among those two variables with fare price, we can then look at the amount of drivers per area. 
+- If drivers are the factor to fare price, we can increase drivers in underserved areas to increase rides to then create lower prices. 
+  - *Drivers that are not getting enough rides leads to a decrease in their pay, which can then lead to a increase in fare price.*  
+
+
+
+
+
+
+
 
