@@ -16,7 +16,7 @@ To do this analysis, I created a summary DataFrame of the ride-sharing data by c
 
 ***Graph representing total weekly fares for each city type***
 
-(image)
+![](https://github.com/Ariannatopbjerg/PyBer_Analysis/blob/main/analysis/weekly_fare.PNG)
 
 ## Analysis Summary
 Looking at the data, there is over 10 times more ride activity in urban cities than rural cities. This makes sense due to urban cities naturally having a higher population density than rural areas. It is also observed that fare rides are cheaper in urban cities than rural cities. Suburban cities are in the between when it comes to ride/driver count and fare price. Since there tends to be a significant difference between city size and population size among the types of cities, we need to take these variables into consideration when deciding ways to reduce fare price to be more affordable for underserved neighborhoods.  
